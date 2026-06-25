@@ -34,6 +34,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0020-valid-parentheses/) | Easy |
 | [0344-reverse-string](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0344-reverse-string/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -50,4 +51,8 @@
 | ------- | ------- |
 | [0035-search-insert-position](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0035-search-insert-position/) | Easy |
 | [0704-binary-search](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0704-binary-search/) | Easy |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020-valid-parentheses](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0020-valid-parentheses/) | Easy |
 <!---LeetCode Topics End-->
